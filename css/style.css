@@ -1,0 +1,201 @@
+.top-container {
+  position: relative;
+  padding-top: 10rem;
+  background-color:#EAF6F6;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family:verdana, sans-serif;
+
+
+}
+
+
+
+.sub-title {
+  margin: 0;
+  font-size: 2.5rem;
+font-family: 'Montserrat', sans-serif;
+font-weight: normal;
+line-height: 4;
+
+}
+
+.title {
+  font-size: 562%;
+  width: 40%;
+  margin: 0 auto;
+  font-family: 'Kaushan Script', cursive;
+  color: #66BFBF;
+
+
+
+}
+
+.engineering {
+  text-decoration: underline;
+}
+
+.c2 {
+  position: absolute;
+  top: 3.1rem;
+  right: 15rem;
+  width: 10%;
+  margin : 0 auto;
+}
+
+.cloud {
+  position: absolute;
+  left: 3rem;
+  bottom: 20rem;
+  width: 10%;
+  margin : 0 auto;
+}
+.profile{
+  background-color: #FFFFFF;
+}
+.skills{
+  background-color:  #FFFFFF;
+}
+h2{
+  margin : 0;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Carme', sans-serif;
+
+}
+.footer-link{
+  text-decoration: none;
+  color: black;
+  line-height: 2;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+.footer-link:hover{
+  color: white;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  color: #11999E;
+}
+h3
+{
+  color: #11999E;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+p{
+  margin: 0;
+
+}
+.skills{
+  padding-top: 1.25rem;
+}
+.skill-row{
+  width: 50%;
+  margin: 6.25rem auto;
+  text-align: justify;
+  line-height: 2;
+}
+.skill-row p {
+  font-size: 0.8rem;
+}
+.mountain{
+  width :25%;
+  margin: 0 auto;
+  margin-left: 25%;
+}
+
+.skill-image {
+  width: 30%;
+  margin: 0 auto;
+  float: left;
+  margin-right: 2rem;
+}
+.skill-image2 {
+  width: 30%;
+  margin: 0 auto;
+  float: right;
+  margin-left: 2rem;
+}
+.profile-pic{
+  width: 35%;
+  margin: 0 auto;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+}
+.BUTTON_QVV {
+   background: #66BFBF;
+   background-image: -webkit-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -moz-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -ms-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -o-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -webkit-gradient(to bottom, #66BFBF, #11999E);
+   -webkit-border-radius: 0.625rem;
+   -moz-border-radius: 0.625rem;
+   border-radius: 0.625rem;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: Trebuchet MS;
+   width: 12.5rem;
+   font-size: 1.688rem;
+   font-weight: 100;
+   padding:1.813rem;
+   -webkit-box-shadow: 0.063rem 0.063rem 1.25rem 0 #000000;
+   -moz-box-shadow: 0.063rem 0.063rem 1.25rem 0 #000000;
+   box-shadow: 0.063rem 0.063rem 1.25rem 0 #000000;
+   border: solid  0.063rem;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_QVV:hover {
+   border: solid  0.063rem;
+   background: #11999E;
+   background-image: -webkit-linear-gradient(top, #11999E, #66BFBF);
+   background-image: -moz-linear-gradient(top, #11999E, #66BFBF);
+   background-image: -ms-linear-gradient(top, #11999E, #66BFBF);
+   background-image: -o-linear-gradient(top, #11999E, #66BFBF);
+   background-image: -webkit-gradient(to bottom, #11999E, #66BFBF);
+   -webkit-border-radius: 0.313rem;
+   -moz-border-radius: 0.313rem;
+   border-radius: 0.313rem;
+   text-decoration: none;
+}
+.copyright
+{
+  color: #EAF6F6;
+  line-height: 2;
+  font-size: 0.7rem;
+}
+.btn{
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+.spacing{
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+}
+.skillset1 .skillset2 {
+  color: #40514E;
+  width : 30%;
+}
+hr{
+      border-style: none;
+      border-top-style: dotted;
+      width: 10%;
+      border-width:0.625rem;
+      margin: 0 auto;
+      color: gray;
+
+}
+.about{
+    margin: 0 auto;
+  width: 50%;
+  line-height: 1.5;
+  font-size: 1rem;
+}

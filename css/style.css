@@ -16,7 +16,7 @@ body {
 
 .sub-title {
   margin: 0;
-  font-size: 2.5rem;
+  font-size: 3em;
 font-family: 'Montserrat', sans-serif;
 font-weight: normal;
 line-height: 4;
@@ -62,7 +62,7 @@ line-height: 4;
 h2{
   margin : 0;
   color: #66BFBF;
-  font-size: 2.5rem;
+  font-size: 3em;
   font-family: 'Carme', sans-serif;
 
 }
@@ -72,6 +72,7 @@ h2{
   line-height: 2;
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
+  font-size: 2rem;
 }
 .footer-link:hover{
   color: white;
@@ -99,7 +100,7 @@ p{
   line-height: 2;
 }
 .skill-row p {
-  font-size: 0.8rem;
+  font-size: 1.5em;
 }
 .mountain{
   width :25%;
@@ -140,7 +141,7 @@ p{
    color: #FFFFFF;
    font-family: Trebuchet MS;
    width: 12.5rem;
-   font-size: 1.688rem;
+   font-size: 1.5rem;
    font-weight: 600;
    padding:1.813rem;
    -webkit-box-shadow: 0.063rem 0.063rem 1.25rem 0 #000000;
@@ -170,7 +171,7 @@ p{
 {
   color: #EAF6F6;
   line-height: 2;
-  font-size: 0.7rem;
+  font-size: 0.7em;
 }
 .btn{
   padding-top: 2.5rem;
@@ -197,5 +198,20 @@ hr{
     margin: 0 auto;
   width: 50%;
   line-height: 1.5;
-  font-size: 1rem;
+  font-size: 1.5em;
+}
+@media (max-width:768px){
+ .about{
+    font-size: 2em;
+  }
+  .copyright{
+    font-size: 1.2em;
+  }
+  .skill-row p {
+  font-size: 1.9em;
+}
+h2{
+  font-size: 3.7rem;
+}
+
 }
